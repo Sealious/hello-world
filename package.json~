@@ -18,6 +18,6 @@
   "homepage": "https://github.com/Sealious/hello-world#readme",
   "dependencies": {
     "sealious": "^0.5.9",
-    "sealious-channel-rest": "^0.1.5"
+    "sealious-channel-rest": "^0.1.2"
   }
 }

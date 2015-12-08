@@ -9,7 +9,5 @@ fields: [
 {name: "age", type: "int", required: true}
 ]});
 
-Sealious.ChipManager.get_chip("channel", "rest").set_url_base("/api/v1");
-
 Sealious.start();
 
