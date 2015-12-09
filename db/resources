@@ -1,0 +1,12 @@
+{"k":"0000000078","o":"0000000184","v":"001"}
+{"_id":2,"_uid":2,"_dt":1449584288802,"_s":"63760c9310075a5626c1747fc6e9114f"}
+{"sealious_id":"fqubg01icl","type":"person","body":{"name":"asd","age":123},"created_context":{"timestamp":1449584288790,"ip":"127.0.0.1","user_id":false},"_id":{"$wrap":"$oid","v":2}}
+{"k":"0000000078","o":"0000000184","v":"001"}
+{"_id":3,"_uid":3,"_dt":1449584352304,"_s":"677e18636183fe277322533a651b366f"}
+{"sealious_id":"9mputbqojd","type":"person","body":{"name":"asd","age":123},"created_context":{"timestamp":1449584352275,"ip":"127.0.0.1","user_id":false},"_id":{"$wrap":"$oid","v":3}}
+{"k":"0000000078","o":"0000000183","v":"001"}
+{"_id":4,"_uid":4,"_dt":1449680680221,"_s":"383a87d577d7e6f21f9e776110de1125"}
+{"sealious_id":"hnqb08gchj","type":"person","body":{"name":"aaa","age":20},"created_context":{"timestamp":1449680680193,"ip":"127.0.0.1","user_id":false},"_id":{"$wrap":"$oid","v":4}}
+{"k":"0000000078","o":"0000000255","v":"001"}
+{"_id":5,"_uid":5,"_dt":1449692278649,"_s":"cc5d37d2f883f1fbcb4772466866759a"}
+{"sealious_id":"q3ny1odgay","type":"owner","body":{"first-name":"Adam","last-name":"Kowalski","address":"ul. Pierwsza 1","phone-number":123456789},"created_context":{"timestamp":1449692278639,"ip":"127.0.0.1","user_id":false},"_id":{"$wrap":"$oid","v":5}}
